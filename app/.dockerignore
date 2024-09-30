@@ -1,0 +1,9 @@
+*
+!books
+!booksapi
+!comments
+!users
+!conftest.py
+!manage.py
+!requirements.txt
+!setup.cfg
